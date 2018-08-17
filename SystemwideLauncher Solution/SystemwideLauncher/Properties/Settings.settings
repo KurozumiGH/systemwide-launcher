@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SystemwideLauncher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SystemwideProcessName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Reference 4 Systemwide</Value>
+    </Setting>
+    <Setting Name="SystemwideExe" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Sonarworks\Reference 4\Systemwide\Reference 4 Systemwide.exe</Value>
+    </Setting>
+    <Setting Name="WaitTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
