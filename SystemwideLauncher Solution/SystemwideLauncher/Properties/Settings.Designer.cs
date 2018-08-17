@@ -49,5 +49,14 @@ namespace SystemwideLauncher.Properties {
                 return ((int)(this["WaitTime"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("5000")]
+        public int WaitTimeToClose {
+            get {
+                return ((int)(this["WaitTimeToClose"]));
+            }
+        }
     }
 }
